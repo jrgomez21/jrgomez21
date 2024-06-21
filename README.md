@@ -1,4 +1,4 @@
-## Hi there my name is Josh! 👋
+## Hi there my name is Josh! I am an inspiring IT technician 👋
 
 
 <!--
