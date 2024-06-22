@@ -11,7 +11,7 @@
 
 <h2> CTFs Solutions: <h2>
 
- - <b> Bandit CTF (OTW) </b>
+ - <h3> <b> Bandit CTF (OTW) </b> </h3>
    - [Bandit CTF: Solutions](https://github.com/jrgomez21/OverTheWire-Bandit-CTF-Solutions)
 
 
