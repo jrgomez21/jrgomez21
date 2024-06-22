@@ -3,6 +3,7 @@
 
 <h2> Information Technology Projects: <h2>
 
+<h3> href="https://github.com/jrgomez21/osticket-prereqs-1"> osTicket: Prerequisites and Installation </a> <h/3>
 
 
 <h2> CTFs Solutions: <h2>
