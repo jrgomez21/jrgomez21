@@ -11,4 +11,8 @@
 
 <h2> CTFs Solutions: <h2>
 
+ - <b> Bandit CTF (OTW) </b>
+   - [Bandit CTF: Solutions](https://github.com/jrgomez21/osticket-prereqs-1)
+
+
 
