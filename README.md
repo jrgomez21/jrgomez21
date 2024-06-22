@@ -1,10 +1,11 @@
 <h1> Hello, my name is Josh! I am an aspiring<a href="https://www.linkedin.com/in/jgomez2126"> IT technician 👋</a> <h1>
 
 
-<h2> Information Technology Projects: 
+<h2> Information Technology Projects: </h2>
+
  - <b> osTicket (Help Desk Ticketing System) </b>
    - [osTicket: Prerequisites and Installation](https://github.com/jrgomez21/osticket-prereqs-1)
-</h2>
+
 
 
 
