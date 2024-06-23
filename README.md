@@ -3,7 +3,7 @@
 
 <h2> Information Technology Projects: </h2>
 
- - <b> osTicket (Help Desk Ticketing System) </b>
+ - <b> osTicket (Help Desk Ticketing System) (Project on a Linux OS) </b>
    - [osTicket: Prerequisites and Installation](https://github.com/jrgomez21/osTicket-prereqs)
 
 
